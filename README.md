@@ -28,7 +28,7 @@ It supports real-time chat, friend requests, audio/video calling, authentication
 ### ⚡ Real-Time Communication
 - Socket.IO for real-time messaging
 - WebSockets for live events (messages, calls, status updates)
-- Live typing indicators (if implemented)
+- Live typing indicators 
 - Instant user status updates
 
 ### 📁 Media Sharing
@@ -37,8 +37,8 @@ It supports real-time chat, friend requests, audio/video calling, authentication
 
 ### 🔐 Authentication & Security
 - JWT authentication
-- Password hashing (bcrypt)
-- Protected routes (middleware)
+- Password hashing 
+- Protected routes 
 
 ### 🧑‍💼 Admin Features
 - Admin controls for users
